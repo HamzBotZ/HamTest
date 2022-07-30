@@ -42,14 +42,14 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/','']
 global.sp = '❑ ' 
 global.mess = {
-    success: 'Done Your Request',
+    success: 'Done',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Orang Sabar Disayang Janda...',
     error: 'Fitur sedang error!',
         endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
